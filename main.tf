@@ -56,6 +56,38 @@ module "blog_sg" {
   egress_cidr_blocks = ["0.0.0.0/0"]
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #resource "aws_security_group" "blog" {
 #  name        = "blog"
 #  description = "Allow http and https in. Allow everything out"
